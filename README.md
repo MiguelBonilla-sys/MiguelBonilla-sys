@@ -7,8 +7,8 @@ Soy estudiante de sexto semestre de Ingeniería de Sistemas en la Universidad de
 He completado un diplomado en desarrollo de aplicaciones móviles con Todos a la U, lo que me ha permitido aplicar mis conocimientos en proyectos reales. Estoy enfocado en seguir aprendiendo y buscando oportunidades para crecer en el ámbito tecnológico.
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/tu-perfil/)
-[![Gmail](https://img.shields.io/badge/Gmail-red)](mailto:tu-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](www.linkedin.com/in/miguel-bonilla-sys)
+[![Gmail](https://img.shields.io/badge/Gmail-red)](miguelangelboto14@gmail.com)
 
 ## Languages and Tools:
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
