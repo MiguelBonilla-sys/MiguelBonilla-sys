@@ -11,9 +11,10 @@ He completado un diplomado en desarrollo de aplicaciones móviles con Todos a la
 [![Gmail](https://img.shields.io/badge/Gmail-red)](miguelangelboto14@gmail.com)
 
 ## Languages and Tools:
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
+![Java]([https://img.shields.io/badge/-Java-red?style=flat-square&logo=java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg))
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
 ![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
 ![Linux](https://img.shields.io/badge/-Linux-yellow?style=flat-square&logo=linux)
+
