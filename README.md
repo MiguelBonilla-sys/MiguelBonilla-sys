@@ -2,7 +2,7 @@
 
 **Estudiante de Ingeniería de Sistemas | Desarrollador Full Stack | Django | Python | Java**
 
-Soy estudiante de séptimo semestre de Ingeniería de Sistemas en la Universidad de San Buenaventura, Bogotá. Me especializo en desarrollo de software, con habilidades en Java, Python, Linux y desarrollo web tanto frontend como backend usando Django y Django REST Framework.
+Soy estudiante de octavo semestre de Ingeniería de Sistemas en la Universidad de San Buenaventura, Bogotá. Me especializo en desarrollo de software, con habilidades en Java, Python, Linux y desarrollo web tanto frontend como backend usando Django y Django REST Framework.
 
 He completado un diplomado en desarrollo de aplicaciones móviles con Todos a la U, lo que me ha permitido aplicar mis conocimientos en proyectos reales. Estoy enfocado en seguir aprendiendo y buscando oportunidades para crecer en el ámbito tecnológico.
 
