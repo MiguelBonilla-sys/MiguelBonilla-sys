@@ -29,17 +29,17 @@ My experience includes working with WordPress, PHP, Next.js, Vite, Supabase, Pos
 
 ### 💻 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,vite,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=wordpress,nextjs,vite,js,ts,html,css" />
 </p>
 
 ### 🧠 Backend
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,php,nodejs" />
+<img src="https://skillicons.dev/icons?i=python,django,php,nodejs,fastapi" />
 </p>
 
 ### 🗄 Databases & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,azure" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux,supabase" />
 </p>
 
 ### ⚡ Automation & CRM
