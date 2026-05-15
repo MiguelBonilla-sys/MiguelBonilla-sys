@@ -81,14 +81,13 @@ I build across the full stack with a bias toward backend systems and automation.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelBonilla-sys&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=86400" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelBonilla-sys&layout=compact&hide_border=true&theme=github_dark&cache_seconds=86400" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=MiguelBonilla-sys&theme=github-dark&hide_border=true" />
 </p>
+
+- 🗂 **35 repositories** — Python, TypeScript, Java
+- ⭐ **18 stars** across projects  
+- 🔥 **1,108 total contributions** since Jul 2022
+- 🔀 Contributions in FastAPI, Django, React, n8n workflows
 
 ---
 
